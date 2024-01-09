@@ -1,0 +1,7 @@
+C:\Users\Soliu abdulbasit\Desktop\MyPorfolio\roadmap to portfolio\c# tuts\mypractice\mypractice\bin\Debug\mypractice.exe.config
+C:\Users\Soliu abdulbasit\Desktop\MyPorfolio\roadmap to portfolio\c# tuts\mypractice\mypractice\bin\Debug\mypractice.exe
+C:\Users\Soliu abdulbasit\Desktop\MyPorfolio\roadmap to portfolio\c# tuts\mypractice\mypractice\bin\Debug\mypractice.pdb
+C:\Users\Soliu abdulbasit\Desktop\MyPorfolio\roadmap to portfolio\c# tuts\mypractice\mypractice\obj\Debug\mypractice.csproj.AssemblyReference.cache
+C:\Users\Soliu abdulbasit\Desktop\MyPorfolio\roadmap to portfolio\c# tuts\mypractice\mypractice\obj\Debug\mypractice.csproj.CoreCompileInputs.cache
+C:\Users\Soliu abdulbasit\Desktop\MyPorfolio\roadmap to portfolio\c# tuts\mypractice\mypractice\obj\Debug\mypractice.exe
+C:\Users\Soliu abdulbasit\Desktop\MyPorfolio\roadmap to portfolio\c# tuts\mypractice\mypractice\obj\Debug\mypractice.pdb
